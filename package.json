@@ -1,0 +1,23 @@
+{
+  "name": "Javascript_Design_pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaled-hossain-code/javascript_design_pattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaled-hossain-code/javascript_design_pattern/issues"
+  },
+  "homepage": "https://github.com/khaled-hossain-code/javascript_design_pattern#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
